@@ -132,3 +132,6 @@ Projeyi klonladıktan sonra gerekli kütüphaneleri yükleyin:
 
 ```bash
 pip install -r requirements.txt
+
+##Medium yazısı:
+https://medium.com/@rumeysakurtuloglu21/sesimiz-hastal%C4%B1k-hakk%C4%B1nda-ne-s%C3%B6yl%C3%BCyor-5697765eb49a
